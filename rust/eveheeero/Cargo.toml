@@ -7,4 +7,3 @@ edition = "2021"
 
 [dependencies]
 intmap = "2.0.0"
-num_cpus = "1.16.0"
